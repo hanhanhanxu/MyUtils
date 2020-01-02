@@ -1,4 +1,4 @@
-### 工具简介
+### 一、工具简介
 
 Bean转换：将组合Bean转换为各个子Bean。相当于springframework的BeanUtils的copeProperties(src,target);
 
@@ -8,7 +8,7 @@ Bean转换：将组合Bean转换为各个子Bean。相当于springframework的Be
 
 例：
 
-### Bean
+### 二、Bean
 
 `Work.java`
 
@@ -100,7 +100,7 @@ public class People {
 
 
 
-### BeanConvert
+### 三、BeanConvert
 
 ```java
 package BeanUtils;
@@ -233,7 +233,7 @@ public class BeanUtils {
 
 
 
-#### 测试结果
+#### 四、测试结果
 
 ![lNtcvQ.png](https://raw.githubusercontent.com/hanhanhanxu/MyUtils/master/BeanConvert/1.png)
 
